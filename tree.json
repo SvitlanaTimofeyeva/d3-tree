@@ -1,0 +1,336 @@
+{
+  "type": "directory",
+  "name": "Main",
+  "_children": [
+    {
+      "type": "directory",
+      "name": "Left Folder 1",
+      "id": "AB-47310",
+      "_children": [
+        {
+          "type": "directory",
+          "name": "LF1S1",
+          "id": "AB-54408",
+          "_children": [
+            {
+              "type": "directory",
+              "name": "LF1S1S2",
+              "id": "AB-37823",
+              "_children": []
+            },
+            {
+              "type": "directory",
+              "name": "LF1S1S3",
+              "id": "AB-98043",
+              "_children": []
+            },
+            {
+              "type": "directory",
+              "name": "LF1S1S1",
+              "id": "AB-22615",
+              "_children": []
+            }
+          ]
+        },
+        {
+          "type": "directory",
+          "name": "LF1S2",
+          "id": "AB-96493",
+          "_children": [
+            {
+              "type": "directory",
+              "name": "LF1S2S2",
+              "id": "AB-26049",
+              "_children": []
+            },
+            {
+              "type": "directory",
+              "name": "LF1S2S3",
+              "id": "AB-75487",
+              "_children": []
+            },
+            {
+              "type": "directory",
+              "name": "LF1S2S1",
+              "id": "AB-70307",
+              "_children": []
+            }
+          ]
+        },
+        {
+          "type": "directory",
+          "name": "LF1S3",
+          "id": "AB-85158",
+          "_children": [
+            {
+              "type": "directory",
+              "name": "LF1S3S1",
+              "id": "AB-69401",
+              "_children": []
+            },
+            {
+              "type": "directory",
+              "name": "LF1S3S2",
+              "id": "AB-67187",
+              "_children": []
+            },
+            {
+              "type": "directory",
+              "name": "LF1S3S3",
+              "id": "AB-67788",
+              "_children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "directory",
+      "name": "Left Folder 2",
+      "id": "AB-10359",
+      "_children": [
+        {
+          "type": "directory",
+          "name": "LF2S1",
+          "id": "AB-7344",
+          "_children": [
+            {
+              "type": "directory",
+              "name": "LF2S2S3",
+              "id": "AB-5314",
+              "_children": []
+            },
+            {
+              "type": "directory",
+              "name": "LF2S2S2",
+              "id": "AB-26018",
+              "_children": []
+            },
+            {
+              "type": "directory",
+              "name": "LF2S2S1",
+              "id": "AB-43316",
+              "_children": []
+            }
+          ]
+        },
+        {
+          "type": "directory",
+          "name": "LF2S2",
+          "id": "AB-47479",
+          "_children": [
+            {
+              "type": "directory",
+              "name": "LF2S2S3",
+              "id": "AB-15482",
+              "_children": []
+            },
+            {
+              "type": "directory",
+              "name": "LF2S2S2",
+              "id": "AB-78740",
+              "_children": []
+            },
+            {
+              "type": "directory",
+              "name": "LF2S2S1",
+              "id": "AB-5069",
+              "_children": []
+            }
+          ]
+        },
+        {
+          "type": "directory",
+          "name": "LF2S3",
+          "id": "AB-38718",
+          "_children": [
+            {
+              "type": "directory",
+              "name": "LF2S3S1",
+              "id": "AB-28372",
+              "_children": []
+            },
+            {
+              "type": "directory",
+              "name": "LF2S3S3",
+              "id": "AB-87186",
+              "_children": []
+            },
+            {
+              "type": "directory",
+              "name": "LF2S3S2",
+              "id": "AB-93902",
+              "_children": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_parents": [
+    {
+      "type": "directory",
+      "name": "Right Folder 1",
+      "id": "AB-4211",
+      "_parents": [
+        {
+          "type": "directory",
+          "name": "RF1S2",
+          "id": "AB-45810",
+          "_parents": [
+            {
+              "type": "directory",
+              "name": "RF1S2S2",
+              "id": "AB-98562",
+              "_parents": []
+            },
+            {
+              "type": "directory",
+              "name": "RF1S2S3",
+              "id": "AB-80778",
+              "_parents": []
+            },
+            {
+              "type": "directory",
+              "name": "RF1S2S1",
+              "id": "AB-46382",
+              "_parents": []
+            }
+          ]
+        },
+        {
+          "type": "directory",
+          "name": "RF1S3",
+          "id": "AB-36780",
+          "_parents": [
+            {
+              "type": "directory",
+              "name": "LF1S3S1",
+              "id": "AB-44838",
+              "_parents": []
+            },
+            {
+              "type": "directory",
+              "name": "LF1S3S2",
+              "id": "AB-27669",
+              "_parents": []
+            },
+            {
+              "type": "directory",
+              "name": "LF1S3S3",
+              "id": "AB-54667",
+              "_parents": []
+            }
+          ]
+        },
+        {
+          "type": "directory",
+          "name": "RF1S1",
+          "id": "AB-46191",
+          "_parents": [
+            {
+              "type": "directory",
+              "name": "RF1S1S2",
+              "id": "AB-50422",
+              "_parents": []
+            },
+            {
+              "type": "directory",
+              "name": "RF1S1S3",
+              "id": "AB-81069",
+              "_parents": []
+            },
+            {
+              "type": "directory",
+              "name": "RF1S1S1",
+              "id": "AB-55717",
+              "_parents": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "directory",
+      "name": "Right Folder 2",
+      "id": "AB-14586",
+      "_parents": [
+        {
+          "type": "directory",
+          "name": "RF2S2",
+          "id": "AB-79797",
+          "_parents": [
+            {
+              "type": "directory",
+              "name": "RF2S2S3",
+              "id": "AB-41931",
+              "_parents": []
+            },
+            {
+              "type": "directory",
+              "name": "RF2S2S2",
+              "id": "AB-4284",
+              "_parents": []
+            },
+            {
+              "type": "directory",
+              "name": "RF2S2S1",
+              "id": "AB-21045",
+              "_parents": []
+            }
+          ]
+        },
+        {
+          "type": "directory",
+          "name": "RF2S3",
+          "id": "AB-80275",
+          "_parents": [
+            {
+              "type": "directory",
+              "name": "RF2S3S1",
+              "id": "AB-47122",
+              "_parents": []
+            },
+            {
+              "type": "directory",
+              "name": "RF2S3S3",
+              "id": "AB-22166",
+              "_parents": []
+            },
+            {
+              "type": "directory",
+              "name": "RF2S3S2",
+              "id": "AB-8717",
+              "_parents": []
+            }
+          ]
+        },
+        {
+          "type": "directory",
+          "name": "RF2S1",
+          "id": "AB-51187",
+          "_parents": [
+            {
+              "type": "directory",
+              "name": "RF2S2S3",
+              "id": "AB-21434",
+              "_parents": []
+            },
+            {
+              "type": "directory",
+              "name": "RF2S2S2",
+              "id": "AB-14627",
+              "_parents": []
+            },
+            {
+              "type": "directory",
+              "name": "RF2S2S1",
+              "id": "AB-41564",
+              "_parents": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
