@@ -1,0 +1,52 @@
+@import 'susy';
+@import "compass/css3";
+
+
+body {
+  background-color: white;
+  padding: 0;
+  margin: 0;
+}
+
+/*svg {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  border: 2px solid white;
+  border-radius: 20px;
+  color: white;
+*/
+}
+
+.person rect {
+    z-index: 3;
+    stroke: none;
+    stroke-width: 1px;
+    shape-rendering: crispEdges;
+    -webkit-appearance: none;
+    box-shadow: -10px -10px 15px rgba(255, 255, 255, 0.5),
+    			10px 10px 15px rgba(70, 70, 70, 0.12);
+    position: absolute;
+    transform: translate(-50%, -50%);
+    outline: none;
+}
+
+
+.person text {
+    position: absolute;
+    z-index: 3;
+    font-family: 'Balthazar', serif;;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.link {
+    position: absolute;
+    z-index: 3;
+    fill: none;
+    stroke-width: 0.5px;
+    shape-rendering: crispEdges;
+}
+
+
+
+
